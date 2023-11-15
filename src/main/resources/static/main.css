@@ -22,6 +22,12 @@ a{
     background: red;
     display: flex;
 }
+.selected-item {
+    background-color : blue;
+}
+
+
+
 
 .side-menu {
     background: indianred;
